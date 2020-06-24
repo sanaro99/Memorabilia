@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">Memorabilia</string>
-    <string name="sancalarm">SancAlarm</string>
+    <string name="heading">Memorabilia</string>
     <string name="set_alarm">Set Alarm</string>
     <string name="channel_name">SancAlarmCh</string>
     <string name="channel_description">Vvgoodalarm</string>
