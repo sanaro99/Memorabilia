@@ -4,7 +4,7 @@
 
 ------
 
-Memorabilia allows you to set custom reminders for your everyday tasks. It features a simple and intuitive UI with a beautiful data and time picker.
+Memorabilia allows you to set custom reminders for your everyday tasks. It features a simple and intuitive UI with a beautiful date and time picker.
 
 ### Screenshots
 
