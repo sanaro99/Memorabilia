@@ -8,10 +8,8 @@ Memorabilia allows you to set custom reminders for your everyday tasks. It featu
 
 ### Screenshots
 
-<img src=".\screenshots\main.jpg" alt="Main" style="zoom:33%;" />
+<img src=".\screenshots\main.jpg" alt="Main" style="width=100px" />
 
-<img src=".\screenshots\date.jpg" alt="Date picker" style="zoom:33%;" />
+<img src=".\screenshots\date.jpg" alt="Date picker" style="width=100px" />
 
-
-
-<img src=".\screenshots\time.jpg" alt="Time picker" style="zoom:33%;" />
+<img src=".\screenshots\time.jpg" alt="Time picker" style="width=100px" />
